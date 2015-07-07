@@ -1,2 +1,3 @@
-# tpl
-The Plant List as Darwin Core Archive
+# The Plant List as Darwin Core Archive
+
+http://www.theplantlist.org/
