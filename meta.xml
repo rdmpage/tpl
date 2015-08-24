@@ -1,0 +1,25 @@
+<archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
+  <core encoding="utf-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy='"' ignoreHeaderLines="0" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+    <files>
+      <location>tpl.txt</location>
+    </files>
+    <id index="0" />
+    <field index="0" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+    <field index="1" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
+    <field index="4" term="http://rs.tdwg.org/dwc/terms/genus"/>
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/specificEpithet"/>
+    <field index="8" term="http://rs.tdwg.org/dwc/terms/infraspecificEpithet"/>
+    <field index="11" term="http://rs.tdwg.org/dwc/terms/namePublishedIn"/>
+    <field index="14" term="http://rs.tdwg.org/dwc/terms/namePublishedInYear"/>
+    <field index="15" term="http://rs.tdwg.org/dwc/terms/originalNameUsageID"/>
+    <field index="16" term="http://rs.tdwg.org/dwc/terms/taxonomicStatus"/>
+    <field index="17" term="http://rs.tdwg.org/dwc/terms/acceptedNameUsageID"/>
+    <field index="18" term="http://rs.tdwg.org/dwc/terms/datasetID"/>
+    <field index="21" term="http://rs.tdwg.org/dwc/terms/scientificNameID"/>
+    <field index="22" term="http://rs.tdwg.org/dwc/terms/family"/>
+    <field index="23" term="http://plantlist.org/terms/confidenceLevel"/>
+    <field index="29" term="http://rs.tdwg.org/dwc/terms/scientificNameAuthorship"/>
+    <field default="Plantae" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
+  </core>
+</archive>
