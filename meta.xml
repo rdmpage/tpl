@@ -21,7 +21,7 @@
     <field index="23" term="http://plantlist.org/terms/confidenceLevel"/>
     <field index="29" term="http://rs.tdwg.org/dwc/terms/scientificNameAuthorship"/>
     <field default="Plantae" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
-    <field default="ICBN" term="http://rs.tdwg.org/dwc/terms/nomenclaturalCode"/>
+    <field default="ICNafp" term="http://rs.tdwg.org/dwc/terms/nomenclaturalCode"/>
     <field default="The Plant List (2013). Version 1.1. Published on the Internet. http://www.theplantlist.org/" term="http://purl.org/dc/terms/bibliographicCitation"/>
     <field default="The Plant List" term="http://purl.org/dc/terms/rightsHolder"/>
     <field default="See http://www.theplantlist.org/1.1/terms/. You may use TPL data in accordance with these Terms of Use and note that the data must not be used for commercial purposes without prior written permission. Contact editors@theplantlist.org. term="http://purl.org/dc/terms/rights"/>
