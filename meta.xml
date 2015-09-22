@@ -6,7 +6,7 @@
     <id index="0" />
     <field index="0" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
     <field index="1" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
-    <field index="2" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/verbatimTaxonRank"/>
     <field index="4" term="http://rs.tdwg.org/dwc/terms/genus"/>
     <field index="6" term="http://rs.tdwg.org/dwc/terms/specificEpithet"/>
     <field index="8" term="http://rs.tdwg.org/dwc/terms/infraspecificEpithet"/>
@@ -18,8 +18,9 @@
     <field index="18" term="http://rs.tdwg.org/dwc/terms/datasetID"/>
     <field index="21" term="http://rs.tdwg.org/dwc/terms/scientificNameID"/>
     <field index="22" term="http://rs.tdwg.org/dwc/terms/family"/>
-    <field index="23" term="http://plantlist.org/terms/confidenceLevel"/>
-    <field index="29" term="http://rs.tdwg.org/dwc/terms/scientificNameAuthorship"/>
+    <field index="29" term="http://rs.tdwg.org/dwc/terms/phylum"/>
+    <field index="30" term="http://rs.tdwg.org/dwc/terms/verbatimTaxonRank"/>
+    <field index="31" term="http://rs.tdwg.org/dwc/terms/scientificNameAuthorship"/>
     <field default="Plantae" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
     <field default="ICNafp" term="http://rs.tdwg.org/dwc/terms/nomenclaturalCode"/>
     <field default="The Plant List (2013). Version 1.1. Published on the Internet. http://www.theplantlist.org/" term="http://purl.org/dc/terms/bibliographicCitation"/>
