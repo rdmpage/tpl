@@ -19,7 +19,7 @@
     <field index="21" term="http://rs.tdwg.org/dwc/terms/scientificNameID"/>
     <field index="22" term="http://rs.tdwg.org/dwc/terms/family"/>
     <field index="29" term="http://rs.tdwg.org/dwc/terms/phylum"/>
-    <field index="30" term="http://rs.tdwg.org/dwc/terms/verbatimTaxonRank"/>
+    <field index="30" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
     <field index="31" term="http://rs.tdwg.org/dwc/terms/scientificNameAuthorship"/>
     <field term="http://rs.tdwg.org/dwc/terms/kingdom" default="Plantae" />
     <field term="http://rs.tdwg.org/dwc/terms/nomenclaturalCode" default="ICNafp" />
