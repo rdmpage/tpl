@@ -11,7 +11,6 @@
     <field index="6" term="http://rs.tdwg.org/dwc/terms/specificEpithet"/>
     <field index="8" term="http://rs.tdwg.org/dwc/terms/infraspecificEpithet"/>
     <field index="11" term="http://rs.tdwg.org/dwc/terms/namePublishedIn"/>
-    <field index="14" term="http://rs.tdwg.org/dwc/terms/namePublishedInYear"/>
     <field index="15" term="http://rs.tdwg.org/dwc/terms/originalNameUsageID"/>
     <field index="16" term="http://rs.tdwg.org/dwc/terms/taxonomicStatus"/>
     <field index="17" term="http://rs.tdwg.org/dwc/terms/acceptedNameUsageID"/>
